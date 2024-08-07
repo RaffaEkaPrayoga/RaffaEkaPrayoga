@@ -54,17 +54,20 @@ I'm a passionate and dedicated Junior Software Developer and IoT Engineer with a
   
 #### Connect with me!
   
-<img src="https://cdn.discordapp.com/attachments/1265564622551781380/1267671011621601351/mengkul.jpg?ex=66a9a221&is=66a850a1&hm=548e49d20bf27e56e23e0bec0c25d114240c39f199284bbb6352b6d34217fe87&" width=249 height=245 width="auto" height="80"align="right">
+<img src="https://cdn.discordapp.com/attachments/1265564622551781380/1267671011621601351/mengkul.jpg?ex=66a9a221&is=66a850a1&hm=548e49d20bf27e56e23e0bec0c25d114240c39f199284bbb6352b6d34217fe87&" width="auto" height="80" align="right">
+
 <a href="https://www.linkedin.com/in/raffa-eka-prayoga-8912b6320/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
 </a>  
+
 <a href="https://discord.com/users/raffaekaprayoga" target="_blank" rel="nofollow">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  target="_blank"width="52" height="40" alt="discord logo" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="max-width: 100%;">
 </a>  
+
 <a href="https://www.instagram.com/raffaekaprayoga/" target="_blank" rel="nofollow">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  target="_blank"width="52" height="40" alt="instagram logo" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/raffa-eka-prayoga-8912b6320/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <br/>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
