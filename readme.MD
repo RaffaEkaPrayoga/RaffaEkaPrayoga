@@ -2,7 +2,7 @@
   
   
 # Raffa Eka Prayoga here ✨ <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
-##### Apprentice @  PT. Solusi Data Madani | Junior Software Developer | Junior IoT Engineer 
+##### Junior Software Developer | Junior IoT Engineer 
   
 <br/>
   
