@@ -6,7 +6,9 @@
   
 <br/>
   
-I'm a passionate and dedicated Junior Software Developer and IoT Engineer with a knack for creating efficient and innovative solutions. Currently an apprentice at PT. Solusi Data Madani, I am constantly expanding my skills and knowledge in various technologies and tools. My journey in tech is driven by a love for problem-solving and a commitment to continuous learning. Additionally, I am studying at SMK Negeri 2 Pekanbaru, majoring in Software Engineering in the 3rd grade.
+I'm a passionate and dedicated Junior Software Developer with a strong interest in software development, IoT, and emerging technologies. My journey in technology started during my vocational high school years, where I studied Software Engineering at SMK Negeri 2 Pekanbaru and gained hands-on experience through various projects and competitions.
+
+Currently, I'm pursuing my Bachelor's degree in Informatics Engineering at Universitas Islam Negeri Sultan Syarif Kasim Riau, while continuously expanding my knowledge and skills in software development, IoT, and AI. I'm passionate about solving real-world problems through technology, building meaningful projects, and embracing new challenges as I grow into a better developer.
 
   
 <br/>
